@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "744379016213",
+    "project_id": "kitchen-assistant-d507d",
+    "storage_bucket": "kitchen-assistant-d507d.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:744379016213:android:eb1ba687c7b4c9d4899a1c",
+        "android_client_info": {
+          "package_name": "com.example.kitchen_assistant"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDhvm5MfWf-w1xfzG_CWX_cwQwp8M5-L7c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
